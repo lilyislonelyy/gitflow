@@ -1,2 +1,3 @@
 Name: Kanyapak Nunpan
 Number: 6610210018
+age: 20
